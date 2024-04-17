@@ -1,0 +1,38 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #4e78b9;
+    background: linear-gradient(to bottom, #4e78b9, #abc8e9); /* 그라데이션 */
+    color: #fff;
+    text-align: center;
+}
+header {
+    background: #3a5875;
+    padding: 20px;
+}
+nav {
+    background: #3a5875;
+    padding: 10px;
+}
+nav a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 10px;
+}
+nav a:hover {
+    text-decoration: underline;
+}
+section {
+    padding: 20px;
+}
+footer {
+    background: #3a5875;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}

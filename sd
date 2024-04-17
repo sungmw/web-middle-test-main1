@@ -1,0 +1,7 @@
+        header {
+            background: #4e78b9; /* 헤더 배경색 */
+            background: linear-gradient(45deg, rgb(131, 84, 211), #fff);
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
